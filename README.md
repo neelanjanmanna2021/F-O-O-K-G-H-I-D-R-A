@@ -13,3 +13,5 @@
 
 
 # Atmanirbhar BHARAT
+
+# Copyrighted and protected by the Berne Convention
