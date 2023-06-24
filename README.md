@@ -75,3 +75,5 @@ exec(executable)
 
 
 # making your life a tad bit easier no need for banging your head against the wall to decrypt the code
+
+# If you want to execute the exe I am just a phone call or whatsapp away as You need an otp to activate the exe +919831880966
